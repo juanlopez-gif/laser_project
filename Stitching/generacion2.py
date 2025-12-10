@@ -12,7 +12,7 @@ from pathlib import Path
 
 # CONFIG
 PIXEL_SIZE = 0.007413  # mm
-PART_LENGTH = 20.0  # mm
+#PART_LENGTH = 20.0  # mm
 PART_WIDTH = 6.0    # mm
 TILE_WIDTH = 7.6    # mm
 OVERLAP = 3.0       # mm
